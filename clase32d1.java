@@ -1,3 +1,9 @@
+/** 
+@author Ignacio Rumbo
+CaC inicial 2022
+*/
+
+
 /* DESAFIO 1
     * Crear una función que eleve un número a una potencia, ambos cargados por teclado. 
     * Tener en cuenta que el tipo de datos se corresponda con lo declarado.
